@@ -1,2 +1,3 @@
 Please clone https://github.com/Oshima-Shosen-Robotics-Research-Club/liboshima into lib directory.
-The directory is ignored by .gitignore.
+The directory is ignored by .gitignore in this repository.
+If you lunch Visual Studio Code and open a file in the liboshima directory immediately, you can version-control the liboshima directory with another repository that you cloned.
