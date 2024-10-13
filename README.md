@@ -5,3 +5,6 @@
     ```sh
     git submodule update --init --recursive
     ```
+5. 『ソース管理』アイコンをクリックします。
+6. 『liboshima』という名前の右にある16進数の文字列をクリックします。
+7. 『main』という名前のブランチをクリックします。
