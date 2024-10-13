@@ -1,4 +1,7 @@
-vscodeを起動。
-このリポジトリをクローン。
-『表示』->『ターミナル』でターミナルを起動。
-git submodule update --init --recursive をコピー＆ペースト
+1. VSCodeを起動します。
+2. このリポジトリをクローンします。
+3. 『表示』メニューから『ターミナル』を選択してターミナルを起動します。
+4. 以下のコマンドをコピー＆ペーストして実行します:
+    ```sh
+    git submodule update --init --recursive
+    ```
